@@ -1,6 +1,4 @@
 /*
-Erik Uriel Araujo Yepiz
-26/09/2019
 Realizar un programa que eleve al cuadrado y al cubo de cualquier numero, y que imprima el numero junto a su cuadrado
 */
 #include"stdio.h"

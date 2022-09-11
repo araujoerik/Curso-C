@@ -1,6 +1,4 @@
 /*
-Erik Uriel araujo Yepiz
-26/09/2019
 Calcula la calificacion final de un estudiante si la ponderacion en la materia es:
 Examen 1:30%
 Examen 2:50%

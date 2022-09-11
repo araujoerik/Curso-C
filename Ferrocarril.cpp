@@ -1,7 +1,6 @@
 /*Programa que calcula el precio de un billete de ferrocarril
 ida y vuelta, conociendo la distancia de las dos ciudades y la estancia
 en dias 
-12-10-2019
 Estructura selectiva: if*/
 
 #include"stdio.h"

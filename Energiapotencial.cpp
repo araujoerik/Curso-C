@@ -1,6 +1,4 @@
 /*
-Erik Uriel Araujo Yepiz
-26/09/2019
 Un programa que determina la energia potencial de un cuerpo
 energia potencial=masa*altura*gravedad*/
 

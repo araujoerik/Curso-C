@@ -1,5 +1,5 @@
-/*Estructura selectiva: If anidado
-Erik Uriel Araujo Yepiz
+/*
+Estructura selectiva: If anidado
 */
 
 #include"stdio.h"

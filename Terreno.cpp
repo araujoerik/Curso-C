@@ -1,6 +1,4 @@
 /*
-Erik Uriel Araujo Yepiz
-28-09-2019
 Estructura secuencial
 Ejercicio Estancia*/
 

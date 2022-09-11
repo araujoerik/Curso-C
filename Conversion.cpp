@@ -1,5 +1,4 @@
 /*Programa que convierte metros a centrimetros y viceversa
-12-10-2019
 Estructrura selectiva*/
 
 #include"stdio.h"

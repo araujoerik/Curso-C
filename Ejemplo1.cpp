@@ -1,4 +1,4 @@
-/*Primer programa en Dev C
+/*Primer programa
 Hacer un programa que imprima un mensaje*/
 
 #include"stdio.h"

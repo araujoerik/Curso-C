@@ -1,5 +1,4 @@
 /* Programa que incrementa el precio si su precio es inferior a $1500
-12-10-2019
 Estructura selectiva: If*/
 
 #include"stdio.h"
