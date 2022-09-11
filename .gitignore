@@ -2,3 +2,4 @@
 .vscode/
 null
 Makefile.win
+.gitignore
