@@ -1,5 +1,4 @@
 /*Programa que indica si un alumno fue admitido o no a la universidad
-12-10-2019
 Estructura selectiva:if*/
 
 #include"stdio.h"
